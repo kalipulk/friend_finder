@@ -17,6 +17,11 @@ body {
     text-decoration: none;
 }
 
+.footer a:visited {
+    text-decoration: none;
+    color: black;
+}
+
 /* home page styles */
 
 .home-container {
@@ -45,6 +50,15 @@ body {
     margin: 25px;
     padding: 10px;
 }
+
+#home-button a {
+    text-decoration: none;
+}
+
+#home-button a:visited {
+    color: white;
+  }
+ 
 
 /* survey page styles  */
 
