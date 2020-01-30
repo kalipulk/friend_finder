@@ -4,12 +4,30 @@ body {
     margin: auto;
 }
 
-.home-container {
-    background-color: #a1a7ab;
+.footer{
     margin: auto;
+    max-width: 85%;
     text-align: left;
-    width: 75%;
+    padding: 20px;
+}
 
+.home-container {
+    background-color: #d5d9de;
+    margin: auto;
+    text-align: center;
+    width: 85%;
+    border-radius: 5px;
+
+}
+
+#jumbo {
+    font-size: 65px;
+    margin: auto;
+    padding: 30px;
+}
+
+#headline {
+    font-size: 30px;
 }
 
 #home-button {
