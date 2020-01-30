@@ -1,0 +1,100 @@
+/* site wide styles */
+
+body {
+    font-family: 'Nunito', sans-serif;
+    width: 100;
+    margin: auto;
+}
+
+.footer{
+    margin: auto;
+    max-width: 70%;
+    text-align: left;
+    padding: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+/* home page styles */
+
+.home-container {
+    background-color: #d5d9de;
+    margin: auto;
+    text-align: center;
+    width: 85%;
+    border-radius: 5px;
+}
+
+#jumbo {
+    font-size: 65px;
+    margin: auto;
+    padding: 30px;
+}
+
+#headline {
+    font-size: 30px;
+}
+
+#home-button {
+    background-color: #2b599e;
+    color: white;
+    font-size: 18px;
+    border-radius: 7px;
+    margin: 25px;
+    padding: 10px;
+}
+
+/* survey page styles  */
+
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    justify-items: center;
+}
+
+#survey-title {
+    font-size: 38px;
+    font-weight: bold;
+}
+
+#name-text {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#photo-text {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.input-type {
+    width: 80%;
+    border-radius: 5px;
+    line-height: 1.5;
+    padding: 8px;
+}
+
+.chosen-select {
+    font-size: 18px;
+    margin: auto;
+}
+
+#submit-button {
+    background-color: #2b599e;
+    color: white;
+    font-size: 18px;
+    border-radius: 7px;
+    height: 55px;
+    width: 100%;
+    max-width: 500px;
+}
+
+
+
