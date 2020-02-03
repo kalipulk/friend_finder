@@ -25,7 +25,7 @@ module.exports= function(app) {
             if (totalDiff <= bestMatch.score) {
                 bestMatch.name = currentFriend.name;
                 bestMatch.image = currentFriend.image;
-                bestMatch.score = currentFriend.score;
+                bestMatch.score = totalDiff.score;
             } 
        }
        friends.push(userData);
